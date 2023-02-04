@@ -750,11 +750,14 @@ section {
   .section {
     padding: 2rem 2.5rem;
   }
+  .main-title h2 {
+    font-size: 3rem;
+  }
   .main-title h2 span {
-    font-style: 2rem;
+    font-size: 3rem;
   }
   .main-title h2 .bg-text {
-    font-style: 3rem;
+    display: none;
   }
   .controls {
     top: auto;

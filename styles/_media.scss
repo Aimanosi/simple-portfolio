@@ -90,11 +90,12 @@
 
   .main-title {
     h2 {
+      font-size: 3rem;
       span {
-        font-style: 2rem;
+        font-size: 3rem;
       }
       .bg-text {
-        font-style: 3rem;
+        display: none;
       }
     }
   }
