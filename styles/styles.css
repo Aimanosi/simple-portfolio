@@ -684,6 +684,12 @@ section {
     grid-template-columns: 1fr;
     padding-bottom: 6rem;
   }
+  .hover-items {
+    font-size: 5px;
+  }
+  .hover-items p {
+    font-size: 5px;
+  }
   .contact-content-con {
     flex-direction: column;
   }

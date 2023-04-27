@@ -21,7 +21,6 @@
       display: none;
     }
   }
-
   .right-header {
     grid-row: 1;
     width: 90%;
@@ -65,6 +64,13 @@
   .portfolios {
     grid-template-columns: 1fr;
     padding-bottom: 6rem;
+  }
+
+  .hover-items {
+    font-size: 5px;
+    p {
+      font-size: 5px;
+    }
   }
 
   .contact-content-con {
