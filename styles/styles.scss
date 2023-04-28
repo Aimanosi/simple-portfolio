@@ -549,6 +549,12 @@ section {
   .right-contact {
     flex: 3;
     margin-left: 3rem;
+
+    .contact-buttons {
+      display: flex;
+      justify-content: space-between;
+    }
+
     .input-control {
       margin: 1.5rem 0;
       input,
@@ -597,6 +603,14 @@ section {
   align-items: flex-start;
   align-items: center;
   overflow: hidden;
+
+  button {
+    background: none;
+    border: none;
+    color: var(--color-white);
+    font-weight: 600;
+    font-size: inherit;
+  }
   .btn-text {
     padding: 0 2rem;
   }
