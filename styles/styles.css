@@ -417,7 +417,7 @@ section {
   transition: all 0.4s ease-in-out;
 }
 .portfolios .portfolio-item .hover-items p {
-  text-align: left;
+  text-align: center;
   font-size: 16px;
   margin: 15px 15px;
 }
@@ -425,6 +425,10 @@ section {
   font-size: 1.5rem;
   color: var(--color-white);
   margin-top: 0.8rem;
+}
+.portfolios .portfolio-item .hover-items h4 {
+  color: #000;
+  margin-bottom: 1rem;
 }
 .portfolios .portfolio-item .hover-items .icons {
   display: flex;
