@@ -699,6 +699,11 @@ section {
     grid-template-columns: 1fr;
     padding-bottom: 6rem;
   }
+  .portfolios h4 {
+    color: #000;
+    margin-bottom: 1rem;
+    font-size: 17px;
+  }
   .hover-items {
     font-size: 5px;
   }

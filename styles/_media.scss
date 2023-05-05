@@ -64,6 +64,12 @@
   .portfolios {
     grid-template-columns: 1fr;
     padding-bottom: 6rem;
+
+    h4 {
+      color: #000;
+      margin-bottom: 1rem;
+      font-size: 17px;
+    }
   }
 
   .hover-items {
